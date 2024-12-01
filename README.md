@@ -32,7 +32,6 @@ Hi, I'm Claude.
 |     1|Lucene     | 
 |     2|Java       |
 |     3|Python     |
-|     4|French     | 
 
 </details>
 
