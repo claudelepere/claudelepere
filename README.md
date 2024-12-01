@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## About me
 
-Hi, I'm Claude.
+Hi, My name is Claude Lepère; I'm currently learning and working on Lucene and Machine Learning.
 
 
 <details open>
@@ -29,7 +29,6 @@ Hi, I'm Claude.
 
 | Rank | Languages |
 |-----:|-----------|
-|     1|Lucene     | 
 |     2|Java       |
 |     3|Python     |
 
